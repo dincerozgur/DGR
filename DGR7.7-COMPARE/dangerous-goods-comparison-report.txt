@@ -1,0 +1,168 @@
+# Comparison Report: Dangerous Goods Learning Objectives
+
+## Introduction
+This report compares the learning objectives listed in Document 1 (1.txt) with the content provided in Document 2 (2.txt) for a lesson on dangerous goods. The aim is to identify which objectives are met and which are not adequately covered in the available content.
+
+## Detailed Analysis
+
+1. **Understanding the basics of dangerous goods**
+   - Status: Met
+   - Evidence: Document 2 has a section titled "UNDERSTANDING THE BASICS OF DANGEROUS GOODS"
+
+2. **Dangerous goods applicability**
+   - Status: Met
+   - Evidence: Document 2 has a section on "DANGEROUS GOODS APPLICABILITY"
+
+3. **Understand the definition**
+   - Status: Met
+   - Evidence: Document 2 includes "UNDERSTAND THE DEFINITION" under the ICAO definition section
+
+4. **Recognise the legal framework (global, national)**
+   - Status: Met
+   - Evidence: Document 2 covers "RECOGNIZE THE LEGAL FRAMEWORK" including international and local requirements
+
+5. **Identify the application scope**
+   - Status: Met
+   - Evidence: Document 2 has a section on "IDENTIFY THE APPLICATION SCOPE"
+
+6. **Differentiate hazard and risk**
+   - Status: Met
+   - Evidence: Document 2 includes "DIFFERENTIATE HAZARD VS RISK"
+
+7. **Understanding the general limitations**
+   - Status: Met
+   - Evidence: Document 2 has a section on "UNDERSTANDING THE GENERAL LIMITATIONS"
+
+8. **Develop a sense of forbidden dangerous goods**
+   - Status: Met
+   - Evidence: Document 2 covers "DEVELOP A SENSE OF FORBIDDEN DANGEROUS GOODS"
+
+9. **Recognise potential hidden dangerous goods**
+   - Status: Met
+   - Evidence: Document 2 includes "RECOGNIZE POTENTIAL HIDDEN DANGEROUS GOODS"
+
+10. **Familiarise with passenger provisions**
+    - Status: Met
+    - Evidence: Document 2 has a section on "FAMILIARIZE WITH PASSENGER PROVISIONS"
+
+11. **Identifying roles and responsibilities**
+    - Status: Met
+    - Evidence: Document 2 includes "IDENTIFYING ROLES AND RESPONSIBILITIES"
+
+12. **Clarity the individual and collective role of the supply chain stakeholders**
+    - Status: Met
+    - Evidence: Document 2 covers "CLARIFY THE INDIVIDUAL AND COLLECTIVE ROLE OF THE SUPPLY CHAIN STAKEHOLDERS"
+
+13. **Understand the passenger's responsibilities**
+    - Status: Met
+    - Evidence: Document 2 includes "UNDERSTAND THE PASSENGERS RESPONSIBILITIES"
+
+14. **Recognise the impact of State & operator variations**
+    - Status: Met
+    - Evidence: Document 2 covers "RECOGNIZE THE ROLE AND IMPACT OF STATE and OPERATOR VARIATIONS"
+
+15. **Understanding the importance of classification & packaging**
+    - Status: Met
+    - Evidence: Document 2 has a section on "UNDERSTANDING THE IMPORTANCE OF CLASSIFICATION and PACKAGING"
+
+16. **Identify the general information about classes, divisions**
+    - Status: Met
+    - Evidence: Document 2 includes detailed information about classes and divisions
+
+17. **Understand general principles of packing groups**
+    - Status: Met
+    - Evidence: Document 2 covers "UNDERSTAND GENERAL PRINCIPLES OF PACKING GROUPS"
+
+18. **Consider multiple hazards**
+    - Status: Met
+    - Evidence: Document 2 includes "CONSIDER MULTIPLE HAZARDS"
+
+19. **Understanding hazard communication**
+    - Status: Met
+    - Evidence: Document 2 has a section on "UNDERSTANDING HAZARD COMMUNICATION"
+
+20. **Recognise the basic marking requirements**
+    - Status: Met
+    - Evidence: Document 2 covers "RECOGNISE THE BASIC MARKING REQUIREMENTS"
+
+21. **Recognise the basic labelling requirements**
+    - Status: Met
+    - Evidence: Document 2 includes "RECOGNISE THE BASIC LABELLING REQUIREMENTS"
+
+22. **Identify the required documentation**
+    - Status: Met
+    - Evidence: Document 2 covers "IDENTIFY THE REQUIRED DOCUMENTATION"
+
+23. **Famliarising with basic emergency response**
+    - Status: Met
+    - Evidence: Document 2 has a section on "FAMILIARIZING WITH BASIC EMERGENCY RESPONSE"
+
+24. **Create awareness about general emergency procedures**
+    - Status: Met
+    - Evidence: Document 2 includes "CREATE AWARENESS ABOUT GENERAL EMERGENCY PROCEDURES"
+
+25. **Understand the employer's emergency response requirements**
+    - Status: Met
+    - Evidence: Document 2 covers "UNDERSTAND THE EMPLOYERS EMERGENCY RESPONSE REQUIREMENTS"
+
+26. **Transporting cargo/baggage**
+    - Status: Met
+    - Evidence: Document 2 has a section on "TRANSPORTING CARGO/BAGGAGE"
+
+27. **Manage dangerous goods pre and during flight**
+    - Status: Met
+    - Evidence: Document 2 includes "MANAGE DANGEROUS GOODS PRE AND DURING FLIGHT"
+
+28. **Address dangerous goods not permitted in baggage**
+    - Status: Met
+    - Evidence: Document 2 covers "ADDRESS DANGEROUS GOODS NOT PERMITTED IN BAGGAGE"
+
+29. **Interpret NOTOC**
+    - Status: Met
+    - Evidence: Document 2 includes "INTERPRET NOTOC"
+
+30. **Apply procedures in the event of an emergency**
+    - Status: Met
+    - Evidence: Document 2 covers "APPLY PROCEDURES IN THE EVENT OF AN EMERGENCY"
+
+31. **Inform flight operations officer/flight dispatcher/air traffic control in the event of an emergency**
+    - Status: Met
+    - Evidence: Document 2 includes this specific objective
+
+32. **Inform emergency services of the dangerous goods on the NOTOC in the event of an emergency**
+    - Status: Met
+    - Evidence: Document 2 covers this specific objective
+
+33. **Collecting safety data**
+    - Status: Met
+    - Evidence: Document 2 has a section on "COLLECTING SAFETY DATA"
+
+34. **Report dangerous goods accidents**
+    - Status: Met
+    - Evidence: Document 2 includes "REPORT DANGEROUS GOODS ACCIDENTS"
+
+35. **Report dangerous goods incidents**
+    - Status: Met
+    - Evidence: Document 2 covers "REPORT DANGEROUS GOODS INCIDENTS"
+
+36. **Report undeclared/mis-declared dangerous goods**
+    - Status: Met
+    - Evidence: Document 2 includes "REPORT UNDECLARED/MIS-DECLARED DANGEROUS GOODS"
+
+37. **Report dangerous goods occurrences**
+    - Status: Met
+    - Evidence: Document 2 covers "REPORT DANGEROUS GOODS OCCURRENCES"
+
+## Summary
+Total learning objectives: 37
+Objectives met: 37
+Objectives not met: 0
+
+All learning objectives listed in Document 1 are adequately covered in the content provided in Document 2. The available material appears to be comprehensive and aligns well with the required learning objectives for the dangerous goods lesson.
+
+## Recommendations
+While all objectives are met, consider the following suggestions to enhance the learning experience:
+1. Ensure that the depth of coverage for each objective is sufficient for the intended audience.
+2. Consider adding practical examples or case studies to reinforce the theoretical knowledge.
+3. Implement interactive elements or assessments to test understanding of key concepts.
+4. Regularly review and update the content to reflect any changes in regulations or best practices in dangerous goods handling.
